@@ -11,6 +11,7 @@
 当然，在实际的场景中，肯定有多种手段来实现，本文只关注Java编程中在多线程环境下，保证线程安全的方式。
 
 ## 锁的分类
+<img src="https://telegraph-image-aed.pages.dev/file/f578fc00481356c273281.png" style="margin: auto" />
 ![](https://telegraph-image-aed.pages.dev/file/f578fc00481356c273281.png)
 
 ## 乐观锁和悲观锁
